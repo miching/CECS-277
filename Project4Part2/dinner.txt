@@ -1,0 +1,2 @@
+Michael Ching;Dinner;200.0;1/1/2020
+Mike Jordan;Dinner;500.0;5/5/2020

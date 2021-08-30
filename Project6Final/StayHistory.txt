@@ -1,0 +1,2 @@
+Colony Name: Nick's Colony; Payment Method: MasterRoach; Cost: $1050.0
+Colony Name: Mika's Colony; Payment Method: RoachPal; Cost: $300.0
